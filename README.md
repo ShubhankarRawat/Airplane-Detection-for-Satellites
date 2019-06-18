@@ -15,7 +15,7 @@ The data is taken from kaggle, you can find it here : https://www.kaggle.com/ace
 The dataset contains 400 training images and 100 testing images, with bounding box coordinates present in both xml files or csv
 In this repo I have uploaded the modified train and test csv files.
 
-##THE APPROACH
+## THE APPROACH
 Faster RCNN is one of the best object detection methods available till date.
 Being an advanced version of RCNN, FRCNN gives one of the best results in less time.
 
