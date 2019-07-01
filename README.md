@@ -1,5 +1,7 @@
 # AIRPLANE DETECTION FOR SATELLITES
 
+![](img1.png)
+
 Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos
 
 There is a growing use of object detection in today's technology, be it face detection, face recognition, car detection, etc.
