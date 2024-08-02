@@ -1,5 +1,5 @@
 h5py
-Keras==2.0.3
+Keras==2.13.1
 numpy
 opencv-python
 sklearn
